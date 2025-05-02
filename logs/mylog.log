@@ -453,3 +453,37 @@
 [INFO ] 2025-04-28 15:23:58.466 [main] StepDef - clicked on logout button.
 [WARN ] 2025-04-28 15:23:58.471 [main] StepDef - Test Passed : Page title matched.
 [INFO ] 2025-04-28 15:23:59.672 [main] StepDef - browser closed.
+[INFO ] 2025-05-01 16:17:03.224 [main] StepDef - Before setup method executed.
+[INFO ] 2025-05-01 16:17:09.898 [main] StepDef - launched chrome browser.
+[INFO ] 2025-05-01 16:17:13.656 [main] StepDef - Opened url
+[INFO ] 2025-05-01 16:17:13.875 [main] StepDef - EmailAddress and password entered.
+[INFO ] 2025-05-01 16:17:13.958 [main] StepDef - clicked on login button.
+[WARN ] 2025-05-01 16:17:21.199 [main] StepDef - Test Passed : User can view dashboard page title matched.
+[INFO ] 2025-05-01 16:17:21.366 [main] StepDef - clicked on bills.
+[INFO ] 2025-05-01 16:17:22.267 [main] StepDef - Clicked on view & updated bills.
+[INFO ] 2025-05-01 16:17:22.343 [main] StepDef - Entered receipt number on the search page.
+[INFO ] 2025-05-01 16:17:22.422 [main] StepDef - Clicked on search button.
+[WARN ] 2025-05-01 16:17:24.505 [main] StepDef - Test Passed : User should found Receipt Number in the Search table.
+[INFO ] 2025-05-01 16:17:25.919 [main] StepDef - browser closed.
+[INFO ] 2025-05-01 16:17:25.935 [main] StepDef - Before setup method executed.
+[INFO ] 2025-05-01 16:17:27.830 [main] StepDef - launched chrome browser.
+[INFO ] 2025-05-01 16:17:28.690 [main] StepDef - Opened url
+[INFO ] 2025-05-01 16:17:28.904 [main] StepDef - EmailAddress and password entered.
+[INFO ] 2025-05-01 16:17:30.528 [main] StepDef - clicked on login button.
+[WARN ] 2025-05-01 16:17:30.540 [main] StepDef - Test Passed : User can view dashboard page title matched.
+[INFO ] 2025-05-01 16:17:30.682 [main] StepDef - clicked on bills.
+[INFO ] 2025-05-01 16:17:31.265 [main] StepDef - Clicked on view & updated bills.
+[INFO ] 2025-05-01 16:17:31.374 [main] StepDef - Selected department from dropdown as e-Mobility.
+[INFO ] 2025-05-01 16:17:31.498 [main] StepDef - Selected status of bill from dropdown menu as In-Process.
+[INFO ] 2025-05-01 16:17:31.584 [main] StepDef - Clicked on search button.
+[WARN ] 2025-05-01 16:17:34.659 [main] StepDef - Test Passed : Department name founded in the search table as e-Mobility.
+[INFO ] 2025-05-01 16:17:36.667 [main] StepDef - browser closed.
+[INFO ] 2025-05-01 16:17:36.683 [main] StepDef - Before setup method executed.
+[INFO ] 2025-05-01 16:17:38.592 [main] StepDef - launched chrome browser.
+[INFO ] 2025-05-01 16:17:39.062 [main] StepDef - Opened url
+[INFO ] 2025-05-01 16:17:39.244 [main] StepDef - EmailAddress and password entered.
+[INFO ] 2025-05-01 16:17:40.744 [main] StepDef - clicked on login button.
+[WARN ] 2025-05-01 16:17:40.757 [main] StepDef - Test Passed : Page title matched.
+[INFO ] 2025-05-01 16:17:41.523 [main] StepDef - clicked on logout button.
+[WARN ] 2025-05-01 16:17:41.531 [main] StepDef - Test Passed : Page title matched.
+[INFO ] 2025-05-01 16:17:42.932 [main] StepDef - browser closed.
