@@ -1,8 +1,1 @@
-test pull command
-1
-2
-3
-4
-5
-updated test pull command file from local to remote repository.
-
+updated commit to push in testpullCmd.txt file.
