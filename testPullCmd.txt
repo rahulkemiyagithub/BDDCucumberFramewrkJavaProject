@@ -1,6 +1,2 @@
 updated commit to push in testpullCmd.txt file.
-1
-2
-3
-4
-5.
+
