@@ -499,3 +499,28 @@
 [INFO ] 2025-05-03 12:14:18.029 [main] StepDef - launched chrome browser.
 [INFO ] 2025-05-03 12:14:20.540 [main] StepDef - Before setup method executed.
 [INFO ] 2025-05-03 12:14:22.763 [main] StepDef - launched chrome browser.
+[INFO ] 2025-05-06 11:40:35.608 [main] StepDef - Before setup method executed.
+[INFO ] 2025-05-06 11:40:51.808 [main] StepDef - launched chrome browser.
+[INFO ] 2025-05-06 11:40:52.489 [main] StepDef - Opened url
+[INFO ] 2025-05-06 11:40:56.379 [main] StepDef - EmailAddress and password entered.
+[INFO ] 2025-05-06 11:40:57.543 [main] StepDef - clicked on login button.
+[WARN ] 2025-05-06 11:40:57.551 [main] StepDef - Test Failed : User can view dashboard page title not matched.
+[INFO ] 2025-05-06 11:40:57.786 [main] StepDef - Before setup method executed.
+[INFO ] 2025-05-06 11:41:06.778 [main] StepDef - launched chrome browser.
+[INFO ] 2025-05-06 11:41:08.115 [main] StepDef - Opened url
+[INFO ] 2025-05-06 11:41:08.691 [main] StepDef - EmailAddress and password entered.
+[INFO ] 2025-05-06 11:41:16.188 [main] StepDef - clicked on login button.
+[WARN ] 2025-05-06 11:41:16.212 [main] StepDef - Test Passed : User can view dashboard page title matched.
+[INFO ] 2025-05-06 11:41:16.392 [main] StepDef - clicked on bills.
+[INFO ] 2025-05-06 11:41:17.752 [main] StepDef - Clicked on view & updated bills.
+[INFO ] 2025-05-06 11:41:17.920 [main] StepDef - Selected department from dropdown as e-Mobility.
+[INFO ] 2025-05-06 11:41:18.081 [main] StepDef - Selected status of bill from dropdown menu as In-Process.
+[INFO ] 2025-05-06 11:41:18.177 [main] StepDef - Clicked on search button.
+[WARN ] 2025-05-06 11:41:21.307 [main] StepDef - Test Passed : Department name founded in the search table as e-Mobility.
+[INFO ] 2025-05-06 11:41:23.979 [main] StepDef - browser closed.
+[INFO ] 2025-05-06 11:41:23.992 [main] StepDef - Before setup method executed.
+[INFO ] 2025-05-06 11:41:31.107 [main] StepDef - launched chrome browser.
+[INFO ] 2025-05-06 11:41:31.976 [main] StepDef - Opened url
+[INFO ] 2025-05-06 11:41:32.146 [main] StepDef - EmailAddress and password entered.
+[INFO ] 2025-05-06 11:41:32.224 [main] StepDef - clicked on login button.
+[WARN ] 2025-05-06 11:41:32.232 [main] StepDef - Test Failed : Page title not matched.
